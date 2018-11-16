@@ -1,0 +1,25 @@
+body {
+    background-color:red;
+}
+
+
+.congress {
+    color: white;
+}
+h1 {
+    justify-content: center;
+    display: flex;
+    font-family: "Times New Roman", Times, serif;
+    font-style: normal;
+    font-size: 200%;
+   
+}
+.image {
+    display: flex;
+    justify-content: flex-start
+}
+p {
+    text-align: start;
+    color:white;
+    font-size: 100%;
+}
